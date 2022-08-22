@@ -1,0 +1,9 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "project to generate team profiles",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+}
