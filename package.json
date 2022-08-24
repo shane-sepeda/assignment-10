@@ -4,6 +4,6 @@
     "description": "project to generate team profiles",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+    "test": "jest"
     },
 }
